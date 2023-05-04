@@ -1,4 +1,2 @@
 # Manrrikflix
-To avoid copyright issues, the name of this website has been changed to Manrrikflix. The repository contains the initial interface of the website, developed solely using CSS files to replicate the user selection screen of Netflix. This interface is the only feature implemented on the website, and there are no additional pages or functionalities. The design is responsive and adjusts to different screen sizes.
-
-You can access the website at: https://manrrikflix.vercel.app/
+Este é um repositório contendo apenas arquivos CSS para replicar a interface inicial da Netflix na tela de seleção de usuário. Para evitar problemas de direitos autorais, o nome deste site foi alterado para Manrrikflix. A página é composta por um fundo preto com o logotipo da Netflix no topo e uma seção central onde são exibidos ícones circulares de perfil para cada usuário disponível. Cada ícone possui uma borda branca e um nome de usuário abaixo. Ao passar o mouse sobre o ícone, a borda se torna vermelha e o nome do usuário é destacado em branco.
