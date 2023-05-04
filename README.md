@@ -1,3 +1,2 @@
 # Manrrikflix
-Para evitar questões de direitos autorais, o nome deste site foi alterado para Manrrikflix. A interface inicial foi desenvolvida usando apenas arquivos CSS e busca replicar a aparência da tela de seleção de usuário da Netflix. O site conta com um fundo preto com o logotipo do Manrrikflix no topo e ícones de perfil para cada usuário.
-Acesse em: https://manrrikflix.vercel.app/
+Este é um repositório contendo apenas arquivos CSS para replicar a interface inicial da Netflix na tela de seleção de usuário. Para evitar problemas de direitos autorais, o nome deste site foi alterado para Manrrikflix. A página é composta por um fundo preto com o logotipo da Netflix no topo e uma seção central onde são exibidos ícones circulares de perfil para cada usuário disponível. Cada ícone possui uma borda branca e um nome de usuário abaixo. Ao passar o mouse sobre o ícone, a borda se torna vermelha e o nome do usuário é destacado em branco.
