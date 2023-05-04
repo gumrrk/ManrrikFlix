@@ -1,3 +1,3 @@
 # Manrrikflix
-To avoid copyright issues, the name of this website has been changed to Manrrikflix. The initial interface was developed using only CSS files and aims to replicate the appearance of the user selection screen on Netflix. The website features a black background with the Manrrikflix logo at the top and circular profile icons for each available user in the center of the page. Each icon has a white border and the username below. Hovering over the icon turns the border red and highlights the username in white. When selecting a user, a "Continue" button appears below the profiles. The design is responsive and adapts to different screen sizes.
-Access at: https://manrrikflix.vercel.app/
+To avoid copyright issues, the name of this website has been changed to Manrrikflix. The repository contains the initial interface of the website, developed solely using CSS files to replicate the user selection screen of Netflix. This interface is the only feature implemented on the website, and there are no additional pages or functionalities. The design is responsive and adjusts to different screen sizes.
+You can access the website at: https://manrrikflix.vercel.app/
