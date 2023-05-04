@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans&display=swap');
+
+body {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: #121214;
+    flex-direction: column;
+    font-family: 'Martel Sans', sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0.625rem;
+    margin-top: 5rem;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    flex-direction: column;
+}
+
+.geral-content {
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    width: 18.75rem;
+}
+
+.section-1 {
+    display: flex;
+    justify-content: center;
+}
+
+.section-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 50rem;
+    width: 100%;
+    min-width: 18.75rem;
+    flex-wrap: wrap;
+    margin-top: 0rem;
+}
+
+.section-3 {
+    display: flex;
+    justify-content: center;
+}
+
+.profile-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0.875rem;
+}
+
+.profile {
+    display: flex;
+    width: 10rem;
+    height: 10rem;
+    box-sizing: border-box;
+    border-radius: 0.625rem;
+    justify-content: center;
+    align-items: center;
+    transition: 0.3s linear;
+    text-align: center;
+    object-fit: cover;
+    border: 0.125rem solid #121214;
+}
+
+.profile:hover {
+    border: 0.125rem solid white;
+    transition: 0.3s linear;
+    cursor: pointer;
+}
+
+.profile:hover .profile-plus-icon {
+    opacity: 100%;
+    transition: 0.3s linear;
+}
+
+.profile-plus {
+    background-color: #1e1e20;
+}
+
+.profile-plus-icon {
+    opacity: 20%;
+    transition: 0.3s linear;
+}
+
+.manage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 3.75rem;
+    padding-right: 2.5rem;
+    padding-left: 2.5rem;
+    padding-top: 0.625rem;
+    padding-bottom: 0.5rem;
+    border: 0.125rem solid white;
+    border-radius: 0.625rem;
+    transition: 0.3s linear;
+}
+
+.manage:hover {
+    border: 0.125rem solid white;
+    background-color: white;
+    color: black;
+    transition: 0.3s linear;
+    cursor: pointer;
+}
+
+.question {
+    margin-top: 3.125rem;
+    font-size: 1.875rem;
+    color: white;
+    cursor: default;
+}
+
+.profile-name {
+    color: #9c9c9c;
+    transition: 0.3s linear;
+    cursor: default;
+}
+
+.profile:hover + .profile-name {
+    color: white;
+    transition: 0.3s linear;
+}
